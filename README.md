@@ -1,5 +1,6 @@
 # find_nestedkey
-Function for finding a key inside nested dictionary
+Function for finding a key inside nested dictionary.
+I've found this on the internet and can't remember from where.
 
 Just download .py file to Lib folder and import it.
 
